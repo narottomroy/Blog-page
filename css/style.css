@@ -1,0 +1,87 @@
+body {
+    font-family:'Open Sans', sans-serif;
+}
+
+.inner-head {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 36px;
+    color: #62AA00;
+    font: bold;
+    font-weight:300;
+}
+
+.blog-right {
+    padding-right: 45px;
+}
+
+.blog-list h3 {
+    font-family: 'Baloo 2', sans-serif;
+    font: bold;
+    font-weight:900;
+}
+
+.blog-list h3:hover {
+    color: #F96C00;
+    transition: 0.5s;
+}
+
+.blog-list {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+span {
+    color: #F97821;
+}
+
+.btn {
+    font-family: 'Baloo 2', sans-serif;
+    border: 1px solid #D3D4D5;
+    color: #D3D4D5;
+    font-weight: 800px;
+    font-size: 20px;
+}
+
+.btn:hover {
+    border:1px solid #FB9901;
+}
+
+.blog-categories p{
+    font-family: 'Baloo 2', sans-serif;
+    font: bold;
+    font-weight:900;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.categories-lits ul {
+    list-style: none;
+}
+
+.categories-lits a {
+    color: #000000;
+}
+
+.blog-popular-post a {
+   text-decoration: none;
+   color: #000000;
+   font-size: 20px;
+}
+
+.blog-popular-post a:hover {
+    color: #F97821;
+}
+
+.blog-popular-post li {
+    color: #F96C00;
+    font-size: 20px;
+}
+
+.blog-popular-post p{
+    font-family: 'Baloo 2', sans-serif;
+    font: bold;
+    font-weight:900;
+    font-size: 20px;
+    margin-top: 30px;
+}
